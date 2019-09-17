@@ -125,7 +125,7 @@ result_label.grid(row = 11, column = 1)
 #Credit
 creds = tk.Frame(root, bg ="#ffb3b3", bd=5)
 creds.place(relx= 0.95, rely = 0.95, relwidth = 0.2, relheight = 0.05, anchor="se")
-label = tk.Label(creds, text = "By Troldhaugen",bg ="#ffb3b3", font=('Courier', 10), fg='white')
+label = tk.Label(creds, text = "By Ryan S.",bg ="#ffb3b3", font=('Courier', 10), fg='white')
 label.pack()
 
 
